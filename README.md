@@ -3,6 +3,7 @@ Here's the list of supported devices and their mantainers :
 # Xiaomi/Redmi devices
 
 Redmi Note 7 Pro (violet) - [kibria5](https://t.me/kibria5)
+Redmi Note 10 Pro (sweet) - [Pavan Padamata](https://t.me/Pavanpadamata)
 
 POCO X3 NFC (surya) - [Hazama25](https://t.me/Hazama25)
 
