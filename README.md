@@ -4,6 +4,8 @@ Here's the list of supported devices and their mantainers :
 
 Redmi Note 7 Pro (violet) - [kibria5](https://t.me/kibria5)
 
+Redmi Notw 10 Pro (sweet) - [Pavan Padamata](https://t.me/Pavanpadamata)
+
 POCO X3 NFC (surya) - [Hazama25](https://t.me/Hazama25)
 
 POCO X4 Pro 5G (veux) - [SharmagRit](https://t.me/SharmagRit)
