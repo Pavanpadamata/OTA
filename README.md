@@ -14,9 +14,7 @@ POCO F3 / Xiaomi Mi 11X / Redmi K40 (alioth) - [VEN0M98](https://t.me/VEN0M98)
 
 OnePlus Nord (avicii) - [Manikanta Raavi](https://t.me/AlwaysAngry) 
 
-OnePlus 8T/9R (kebab & lemonades) - [HELLBOY017](https://t.me/HELLBOY017)
-
-OnePlus 8/8 Pro (instantnoodle & instantnoodlep) - [Twinchin12](https://t.me/twinchin96)
+OnePlus 8 Series & 9R (instantnoodle, instantnoodlep, kebab, lemonades) - [HELLBOY017](https://t.me/HELLBOY017)
 
 OnePlus 9 Pro (lemonadep) - [Sherif Rahim](https://t.me/sherifrahim)
 
