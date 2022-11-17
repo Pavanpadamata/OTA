@@ -1,0 +1,20 @@
+Changelogs - 13.1.5
+
+- November security patch
+- Added logo to dirac header
+- Added more dirac presets
+- Improved dirac QS tile long press logic
+- Re-configure CPU variant according to GS101
+- optimize for cortex-a76 
+- Enable display force split
+- Remove FM Tuner from input devices 
+- Avoid unsafe boot completed receiver 
+- Use HintManager for HWUI
+- Kill IMS logspam 
+- increase 5 GHz network signal tolerance
+- Import suspend properties from gs101
+- add nodes to hide Magisk in banking apps 
+- rm package cache on early boot 
+- Adjust lux stability time needed for updating auto-brightness values
+- gps Fix proxy app package name
+- Remove more packages
