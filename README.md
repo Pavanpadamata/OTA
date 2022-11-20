@@ -10,6 +10,8 @@ POCO X4 Pro 5G (veux) - [SharmagRit](https://t.me/SharmagRit)
 
 POCO F3 / Xiaomi Mi 11X / Redmi K40 (alioth) - [VEN0M98](https://t.me/VEN0M98)
 
+Redmi Note 10 Pro/Max (sweet) - [Pavan Padamata](https://t.me/Pavanpadamata)
+
 # OnePlus devices
 
 OnePlus Nord (avicii) - [Manikanta Raavi](https://t.me/AlwaysAngry) 
