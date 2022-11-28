@@ -1,0 +1,3 @@
+- GPS blobs update
+- Introduced Dolby Atmos
+- November Security Patches.
