@@ -1,4 +1,43 @@
 # Changelog
+# V13.2 (01-03-2023)
+
+- Android 13.0.0_r30
+- 4G icon switch
+- Small mobile type icon switch
+- Network Traffic Indicater
+- Ignore window secure flag switch
+- Play sound and vibration when screen on switch
+- Headsup Customization
+- Idle manager
+- Added OTA
+- Option to switch between small and large notification in landscape
+- Lockscreen quick unlock
+- Brightness Slider customization with haptic feedback
+- Headsup, Aod, Sync, reboot, refresh_rate and many qs tiles
+- Link ring and notification volume feature
+- Runtime audion panel location toggle
+- Cycle through ringer mode feature
+- Screenshot sound toggle
+- Mute media volume on silent feature
+- Vibrate to indicate callstatus
+- Lockscreen media art blur
+- Fod icon background disabler
+- Color Balance slider
+- Status bar items(Tuner)
+- Cutout force fullscreen apps Feature
+- Increase touch sensitivity feature
+- DT2S on Lockscreen
+- DT2S on statusbar
+- Wake on Plug
+- Advanced Reboot
+- Longpress tap power to toggle torch
+- Haptic feedback on back gesture
+- Haptic feedback on sliders
+- Back gesture height adjustment
+- Volume button long press to change music
+- Back gesture arrow show/hide togle
+- Fingerprint success/error haptic
+- (All the pixel features for pixel phones) Thanks to Statix and Pixel Experience
 
 # V13.0.0 (27-08-2022)
 
